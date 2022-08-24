@@ -1,4 +1,4 @@
-<h1>👋 Welcome to my Github</h1>
+<h1 align="center">👋 Welcome to my Github</h1>
 <p> My name is <b>Robert Wesoły</b>. 
 I’m a <b>Game developer</b> based in Poland. </p>
 <p>I'm using <b>Unreal Engine</b> only at this moment.</p> 
