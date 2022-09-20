@@ -2,7 +2,7 @@
 <p> My name is <b>Robert Wesoły</b>. 
 I’m a <b>Game developer</b> based in Poland. </p>
 <p>I'm using <b>Unreal Engine</b> since 2020.</p> 
-<p> <b>Link to my page: https://headfurygames.github.io/ </b></p>
+<p> <b>Link to my page: https://www.headfurygames.pl/ </b></p>
 
 <h2>👍 What I like to do:</h2> 
 
@@ -34,7 +34,7 @@ My trello to this project: https://trello.com/b/tGJV7uA9/phasmophobia-rework-por
 
 <h2>📫 How to reach me? </h2>
 
->If you are interested in any <strong>business</strong> relations with me, please use this e-mail: robertwesolybusiness@gmail.com
+>If you are interested in any <strong>business</strong> relations with me, please use this e-mail: robertwesoly@headfurygames.pl
 
 >If you are interested in <strong>non-business</strong>: headfurygames@gmail.com </p>
 
