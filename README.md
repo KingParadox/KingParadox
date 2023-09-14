@@ -12,12 +12,6 @@ I’m a <b>Game developer</b> based in Poland. </p>
   <li><i>Create first person animations</i></li>
 </ul>  
 
-<h2>👎 What I don't like to do:</h2> 
-
-<ul>
-  <li><i>3D modelling</i></li>
-  <li><i>Level design</i></li>
-</ul>  
 
 <h2>🌱 My portfolio</h2> 
 
