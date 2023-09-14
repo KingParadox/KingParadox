@@ -15,7 +15,7 @@ I’m a <b>Game developer</b> based in Poland. </p>
 
 <h2>📫 How to reach me? </h2>
 
->If you are interested in any <strong>business</strong> relations with me, please use this e-mail: robertwesoly@headfurygames.pl
+>Any <strong>business</strong> related things, please use this e-mail: robertwesoly@headfurygames.pl
 
 
 <!---
