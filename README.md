@@ -17,7 +17,6 @@ I’m a <b>Game developer</b> based in Poland. </p>
 
 >If you are interested in any <strong>business</strong> relations with me, please use this e-mail: robertwesoly@headfurygames.pl
 
->If you are interested in <strong>non-business</strong>: headfurygames@gmail.com </p>
 
 <!---
 KingParadox/KingParadox is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
