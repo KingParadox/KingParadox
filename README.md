@@ -9,22 +9,9 @@ I’m a <b>Game developer</b> based in Poland. </p>
 <ul>
   <li><i>Design game mechanics</i></li>
   <li><i>Prototype gameplay</i></li>
-  <li><i>Create first person animations</i></li>
+  <li><i>First person animations</i></li>
+  <li><i>Level design</i></li>
 </ul>  
-
-
-<h2>🌱 My portfolio</h2> 
-
-
-
-<p>Currently working on a portfolio project called 'Phasmophobia rework' (name is temporary), the main goal of this project
-is to recreate a game called 'Phasmophobia' - a first person co-op horror title. <br>
-You can find the insight here: https://docs.google.com/document/d/1fseaI81ucQzgE-YodUXZ7Ut7pZMTQLilB1csTX--6vs/edit <br>
-My trello to this project: https://trello.com/b/tGJV7uA9/phasmophobia-rework-portfolio </p>
-
-
-<h2>💞️ Collaborations</h2>
-<p>I’m currently looking to collaborate on the mentioned above project with <b>3d artists</b> and <b>level designers</b>.</p>
 
 <h2>📫 How to reach me? </h2>
 
